@@ -67,12 +67,12 @@ def all_supplies_in_holidays(holiday_hash)
   # etc.
 end 
 
- fasdfsafsad
+ 
  
   # return an array of holiday names (as symbols) where supply lists
   # include the string "BBQ"
 
-end
+
 end
 
 
